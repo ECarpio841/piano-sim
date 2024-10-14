@@ -1,5 +1,5 @@
-import Key from "./Key.tsx";
 import React, {useState} from "react";
+import Key from "./Key";
 
 const notes = ['C', 'D', 'E', 'F', 'G', 'A', 'B'];
 const Keyboard: React.FC = () => {

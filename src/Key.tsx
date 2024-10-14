@@ -13,5 +13,4 @@ const Key: React.FC<KeyProps> = ({note, onClick}) => {
         </button>
     );
 };
-
 export default Key;
